@@ -1,0 +1,72 @@
+{
+  "gid": "0022200259",
+  "gcode": "20221122/LALPHX",
+  "seri": "",
+  "is": 1,
+  "gdte": "2022-11-22",
+  "htm": "2022-11-22T20:00:00",
+  "vtm": "2022-11-22T19:00:00",
+  "etm": "2022-11-22T22:00:00",
+  "an": "Footprint Center",
+  "ac": "Phoenix",
+  "as": "AZ",
+  "st": "1",
+  "stt": "10:00 pm ET",
+  "bd": {
+    "b": [
+      {
+        "seq": 1,
+        "disp": "TNT",
+        "scope": "natl",
+        "type": "tv",
+        "lan": "English",
+        "url": "https://www.tntdrama.com/nba-on-tnt"
+      },
+      {
+        "seq": 2,
+        "disp": "SN",
+        "scope": "can",
+        "type": "tv",
+        "lan": "English",
+        "url": null
+      },
+      {
+        "seq": 3,
+        "disp": "KMVP 98.7 / S: KSUN",
+        "scope": "home",
+        "type": "radio",
+        "lan": "English",
+        "url": null
+      },
+      {
+        "seq": 4,
+        "disp": "ESPN LA 710/KWKW (S)",
+        "scope": "away",
+        "type": "radio",
+        "lan": "English",
+        "url": null
+      }
+    ]
+  },
+  "v": {
+    "tid": 1610612747,
+    "re": "5-10",
+    "ta": "LAL",
+    "tn": "Lakers",
+    "tc": "Los Angeles",
+    "s": ""
+  },
+  "h": {
+    "tid": 1610612756,
+    "re": "10-6",
+    "ta": "PHX",
+    "tn": "Suns",
+    "tc": "Phoenix",
+    "s": ""
+  },
+  "gweek": 6,
+  "gdtutc": "2022-11-23",
+  "utctm": "03:00",
+  "ppdst": "I",
+  "seq": 4
+}
