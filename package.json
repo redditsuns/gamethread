@@ -5,11 +5,7 @@
   "main": "bin/index.js",
   "type": "module",
   "scripts": {
-<<<<<<< Updated upstream
-    "test": "node bin/index.js",
-=======
     "test": "jest --coverage",
->>>>>>> Stashed changes
     "start": "npm run test"
   },
   "repository": {
@@ -26,17 +22,11 @@
   },
   "homepage": "https://github.com/redditsuns/gamethread#readme",
   "dependencies": {
-<<<<<<< Updated upstream
-    "nba": "^4.15.0",
-=======
->>>>>>> Stashed changes
     "node-fetch": "^2.6.7",
     "snoowrap": "^1.23.0"
   },
   "devDependencies": {
-<<<<<<< Updated upstream
-    "dotenv": "^16.0.3"
-=======
+    "dotenv": "^16.0.3",
     "@babel/core": "^7.20.2",
     "@babel/plugin-syntax-import-assertions": "^7.20.0",
     "@babel/preset-env": "^7.20.2",
@@ -48,6 +38,5 @@
     "eslint-plugin-promise": "^6.1.1",
     "jest": "^29.3.1",
     "jsdoc": "^4.0.0"
->>>>>>> Stashed changes
   }
 }
